@@ -49,7 +49,7 @@ ai-group-travel-planner/
 ### 1. Clone Repo
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Anindita1709/Group-travel-planner-AI-agent.git
 cd ai-group-travel-planner
 ```
 

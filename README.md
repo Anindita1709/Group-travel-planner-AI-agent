@@ -90,31 +90,6 @@ npm run dev
 Frontend runs on:
 http://localhost:5173
 
----
-
-## Interview-Level Discussion Points
-
-### Scalability
-- Modular backend architecture
-- Service layer abstraction
-- Environment-based configs
-
-### AI Engineering
-- Prompt engineering
-- AI response sanitization
-- Token optimization
-
-### System Design
-- Group collaboration model
-- Voting algorithms
-- Real-time updates possibility with Socket.IO
-
-### Security
-- JWT authentication ready
-- Rate limiting
-- Input validation
-
----
 
 ## Future Improvements
 
